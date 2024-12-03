@@ -5,22 +5,22 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2024-12-02T22:51:23.048Z",
-    "end": "2024-12-02T22:51:23.669Z",
-    "duration": 621
+    "start": "2024-12-03T09:22:15.886Z",
+    "end": "2024-12-03T09:22:16.464Z",
+    "duration": 578
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,14 +34,14 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,14 +59,14 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined as a const",
       "fullTitle": "index.js companyName is defined as a const",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,14 +80,14 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
